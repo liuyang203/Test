@@ -6,3 +6,4 @@ def function():
     pass
 function()
 print "Hello"
+print "world"
