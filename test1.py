@@ -7,3 +7,4 @@ def function():
 function()
 print "Hello"
 print "world"
+print "new plus"
